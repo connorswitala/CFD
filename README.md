@@ -5,7 +5,7 @@ Computational Fluid Dynamics code for both inviscid and viscous. All done in Mat
 
  'Inviscid_Ramp_DPLR.m' and 'Inviscid_Cylinder_DPLR.m' are the main files that run the grid generators, and iterate using DPLR until convergence for inviscid flow. 
 
- 'Viscous_DPLR.m' includs viscous effects.
+ 'Viscous_DPLR.m' includes viscous effects.
 
  'Postprocessing.m' creates visualization of variables typically in contour plots.
 
